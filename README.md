@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![An image of @kunjshah95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunjshah95)](https://holopin.io/@kunjshah95)
-https://github.com/users/KunjShah95/achievements/pull-shark
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
