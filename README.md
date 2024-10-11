@@ -14,7 +14,8 @@ I’m currently learning CPP ALONG WITH DSA<br><br>👯 I’m looking to collabo
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-(https://holopin.me/kunjshah95)](https://holopin.io/@kunjshah95)
+[![An image of @kunjshah95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunjshah95)](https://holopin.io/@kunjshah95)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
