@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m currently learning java and its framework,web3,golang  and dsa in cpp.<br>👯 I’m looking to collaborate on CYBERSECURITY,AIML,PYTHON ,CPP,FULL STACK WEBDEVELOPMENT,WEB3,CLOUD COMPUTING AND BLOCKCHAI<br>,java,golang,and web3 and blockchain<br>📝 I regularly write articles on https://medium.com/@kkshah2005<br><br>📫 How to reach me kkshah2005@gmail.com
+i m currently learning java and its framework,web3,golang  and dsa in cpp.<br>👯 I’m looking to collaborate on CYBERSECURITY,AIML,PYTHON ,CPP,FULL STACK WEBDEVELOPMENT,WEB3,CLOUD COMPUTING AND BLOCKCHAIN, JAVA AND GOLANG<br>📝 I regularly write articles on https://medium.com/@kkshah2005<br><br>📫 How to reach me kkshah2005@gmail.com
 
 
 ## 🌐 Socials:
