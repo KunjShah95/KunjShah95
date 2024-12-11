@@ -124,13 +124,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <p align="left">Hello World!!</p>
 
@@ -138,9 +131,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KunjShah95/KunjShah95/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
