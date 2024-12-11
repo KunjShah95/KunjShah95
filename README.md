@@ -117,11 +117,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
