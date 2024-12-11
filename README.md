@@ -21,6 +21,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KunjShah95/count.svg?"  />
+</div>
+
+###
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -147,16 +154,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunjShah95&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KunjShah95/count.svg?"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KunjShah95/count.svg?"  />
-</div>
-
-###
