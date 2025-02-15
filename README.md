@@ -1,4 +1,4 @@
-<h3 align="left">I'm Kunj Shah from  Indus University in 2nd year of B.Tech in CSE.<br><br>- 🔭 I’m working as a java developer intern at CODTECH IT SUPPORT<br>- 📚 I'm currently learning java,its framework,cpp with dsa,golang and cybersecurity.<br>- ⚡ In my free time I practice my cybersecurity skills and upskill myself.</h3>
+<h3 align="left">I'm Kunj Shah from  Indus University in 2nd year of B.Tech in CSE.<br><br>-  I'm currently learning java,its framework,cpp with dsa,golang,AIML,DEEPLEARNING,NLP,AI AGENTS and cybersecurity.<br>- ⚡ In my free time I practice my cybersecurity skills and upskill myself.</h3>
 
 
 
