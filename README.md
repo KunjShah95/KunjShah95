@@ -5,9 +5,6 @@
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving complex problems and collaborating with the community to create impactful solutions.
 
-<div align="center">
-  <iframe src="https://your-3d-animation-link-here" width="600" height="400" style="border:none;"></iframe>
-</div>
 
 ## 🛠️ Skills
 ### Languages
