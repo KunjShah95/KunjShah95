@@ -69,10 +69,20 @@ Here are some of my notable projects:
 </div>
 
 ## 🌟 Most Starred Repository
-- [GO-RANSOMWARE-SIMUALTION](https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION) - 2 stars
+<div align="center">
+  <a href="https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION">
+    <img src="https://img.shields.io/badge/-GO--RANSOMWARE--SIMUALTION-blue?style=for-the-badge&logo=github" alt="GO-RANSOMWARE-SIMUALTION">
+  </a>
+  <p>2 stars</p>
+</div>
 
 ## 🍴 Most Forked Repository
-- [GO-RANSOMWARE-SIMUALTION](https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION) - 1 fork
+<div align="center">
+  <a href="https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION">
+    <img src="https://img.shields.io/badge/-GO--RANSOMWARE--SIMUALTION-blue?style=for-the-badge&logo=github" alt="GO-RANSOMWARE-SIMUALTION">
+  </a>
+  <p>1 fork</p>
+</div>
 
 ## 📈 Contribution Graph
 <div align="center">
