@@ -68,6 +68,12 @@ Here are some of my notable projects:
   <img src="https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
+## 🌟 Most Starred Repository
+- [GO-RANSOMWARE-SIMUALTION](https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION) - 2 stars
+
+## 🍴 Most Forked Repository
+- [GO-RANSOMWARE-SIMUALTION](https://github.com/KunjShah95/GO-RANSOMWARE-SIMUALTION) - 1 fork
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://ghchart.rshah.org/KunjShah95" alt="Kunj's GitHub Contribution Graph" />
