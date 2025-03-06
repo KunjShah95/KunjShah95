@@ -5,7 +5,6 @@
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and a love for learning new technologies. I enjoy solving complex problems and collaborating with the community to create impactful solutions.
 
-
 ## 🛠️ Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -60,8 +59,13 @@ Here are some of my notable projects:
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunjShah95&show_icons=true&theme=radical" alt="Kunj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=radical&langs_count=30" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjShah95&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
@@ -72,7 +76,7 @@ Here are some of my notable projects:
 ## 🔗 Get in Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/kunjshah95/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/KunjShah95"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/INDIA_KUNJ"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:kunjshah95@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
