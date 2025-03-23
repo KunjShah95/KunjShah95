@@ -1,4 +1,4 @@
-# Hi there, I'm KunjShah95! 👋
+# Hi there, I'm KunjShah! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KunjShah95&style=flat-square)
 
