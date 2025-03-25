@@ -7,8 +7,8 @@
 I am a passionate developer with expertise in various technologies. I love to learn, contribute, and create impactful projects.
 
 - 🌱 I’m currently learning and exploring new technologies.
-- 💬 Ask me about **JavaScript, Python, Web Development, and Open Source.**
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 💬 Ask me about **JavaScript, Python, Web Development,AI,ML,GOLANG,cybersecurity and Open Source.**
+- 📫 How to reach me: [Email](mailto:kunjkshah05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kunjshah05/)
 - ⚡ Fun fact: I love to travel and explore new places.
 
 ## 🛠️ Technologies & Tools
