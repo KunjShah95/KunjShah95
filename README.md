@@ -36,6 +36,7 @@ I am a passionate developer with expertise in various technologies. I love to le
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
