@@ -7,7 +7,7 @@
 I am a passionate developer with expertise in various technologies. I love to learn, contribute, and create impactful projects.
 
 - 🌱 I’m currently learning and exploring new technologies.
-- 💬 Ask me about **JavaScript, Python, Web Development,AI,ML,GOLANG,cybersecurity and Open Source.**
+- 💬 Ask me about **JavaScript, Python, Web Development, AI, ML, Go, Cybersecurity, and Open Source.**
 - 📫 How to reach me: [Email](mailto:kunjkshah05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kunjshah05/)
 - ⚡ Fun fact: I love to travel and explore new places.
 
@@ -32,6 +32,11 @@ I am a passionate developer with expertise in various technologies. I love to le
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+## 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
 
