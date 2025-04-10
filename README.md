@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  <p><strong>Languages & Key Areas:</strong></p>
+  <p><strong>Languages & Key Areas</strong></p>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -82,11 +82,15 @@
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=20" alt="Top Languages"/>
   </a>
   <br/><br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://streak-stats.demolab.com/?user=KunjShah95&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KunjShah95&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&theme=tokyonight" alt="Contribution Graph"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=KunjShah95&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
