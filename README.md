@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Open%20Source-%23OSI?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
   </p>
 
-  <p><strong>Frameworks & Libraries (Examples - Customize as needed):</strong></p>
+  <p><strong>Frameworks & Libraries</strong></p>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     </p>
 
-  <p><strong>Databases & Cloud (Examples - Customize as needed):</strong></p>
+  <p><strong>Databases & Cloud</strong></p>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     </p>
 
-  <p><strong>Tools & Platforms (Examples - Customize as needed):</strong></p>
+  <p><strong>Tools & Platforms</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
