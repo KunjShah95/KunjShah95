@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://kunjshah95.github.io/kunjsportofolio.github.io/" target="_blank">
+<a href="https://kunjshah95.github.io/kunjs-portfolio-website.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-343a40?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
 </a>
 
