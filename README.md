@@ -65,7 +65,7 @@
 | 🎯 **RL-A2A Protocol** | My own Reinforcement Learning-based Autonomous-to-Autonomous Protocol. | [GitHub](https://github.com/KunjShah01/RL-A2A.github.io) |
 | 📩 **SMS Spam Classifier** | Naive Bayes + Streamlit interface to detect spam on the fly. | [GitHub](https://github.com/KunjShah01/sms-spam-detection) |
 | 📹 **YT Summary Generator** | Summarizes YouTube videos using speech-to-text & NLP. | [GitHub](https://github.com/KunjShah01/youtube-video-summary) |
-| 🧠 **Fake Job Detection** | ML + web scraping to filter scam job postings. | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM) |
+| 🧠 **Fake Job Detection** | ML + web scraping to filter scam job postings. | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM-USING-NLP) |
 
 ---
 
