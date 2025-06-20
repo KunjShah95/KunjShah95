@@ -50,21 +50,6 @@ I'm **Kunj Shah**, a passionate software developer and tech innovator from India
 
 ---
 
-## 🦾 Terminal AI – Next-Gen CLI Assistant
-
-**Terminal AI** is a cutting-edge CLI tool for developers.
-- 🧠 Natural language code generation, refactoring, and explanation.
-- 🤖 AI chat, code suggestions, autocomplete, bug fixes.
-- 🚀 One-command deploys to cloud or containers.
-- 📊 Summarize logs, docs, and code diffs in real time.
-- 🔎 AI-powered code search and navigation.
-- 📋 Clipboard integration for instant code copy-paste.
-- 🔐 Security scans before every deployment.
-- 🎮 Built-in terminal games, themes, and productivity boosters.
-
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
