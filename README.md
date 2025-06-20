@@ -1,80 +1,88 @@
 <!--
-🧬 KUNJ SHAH - @KunjShah95 🧬
-📟 Not Your Average Dev — Just Built Different.
+KUNJ SHAH - @KunjShah95
+Professional Developer Portfolio README
 -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80px" alt="terminal animation" />
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80" alt="Terminal" />
 
-# 🦄 KUNJ SHAH — Rewiring the Simulation
+# Kunj Shah
 
-### <kbd> Software Alchemist | Tech Visionary | Next-Gen Dev | Digital Maverick </kbd>
+### Software Engineer | AI/ML Developer | Tech Visionary
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunjshah05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kunjshah95.github.io/kunjs-portfolio-website.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KunjShah95)
+
+</div>
+
+---
 
 > “Normal is an illusion. What's normal for the spider is chaos for the fly.” — Morticia Addams
 
-[![](https://img.shields.io/badge/𝙊𝙥𝙚𝙣%20𝙏𝙤-𝙄𝙣𝙩𝙚𝙧𝙣𝙨𝙝𝙞𝙥𝙨%20%26%20Collabs-%23ff6f00?style=flat-square&logo=Handshake&logoColor=white)](#)
-[![](https://img.shields.io/badge/𝙄%20𝘽𝙪𝙞𝙡𝙙-AI%20%26%20Autonomous%20Agents-%2345d9fd?style=flat-square&logo=OpenAI&logoColor=white)](#)
-[![](https://img.shields.io/badge/𝙄%20𝘾𝙤𝙙𝙚%20𝙁𝙤𝙧-Fun%20%26%20Impact-%23e84393?style=flat-square&logo=smugmug&logoColor=white)](#)
+---
 
-</div>
+## 👋 About Me
+
+I'm **Kunj Shah**, a passionate software developer and tech innovator from India. My expertise spans full-stack development, artificial intelligence, autonomous agents, cloud-native systems, and cybersecurity. Whether I'm coding from a cafe or deploying from the mountains, I thrive on building scalable, impactful, and unconventional solutions.
+
+- 🔭 **Currently building:** AI agents, Terminal AI, and next-gen developer tools.
+- 🌱 **Learning:** Advanced reinforcement learning, agent orchestration, and cloud automation.
+- 💡 **Belief:** “AI won’t replace you, but the developer using it will.”
+- ⚡ **Fun Fact:** I code for fun and impact — not just for production.
 
 ---
 
-<div align="center">
+## 🚀 Projects
 
-#### 🧪 **Code. Chaos. Coffee.**
-> From late-night debugging to real-time deployment — I build what's next.
-
-- 🚀 **India to Intergalactic** — I deploy from cafes, mountains & virtual worlds.
-- 🧠 **Full Stack AF** — JS | Python | Go | AI/ML | LLMs | Cybersecurity | Cloud-Native
-- 🧑‍🚀 **Mission Control** — Building tools, agents, systems & madness that scale.
-- 🧿 **Belief** — “AI won’t replace you, but the dev using it will.”
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=🚨+Coding+outside+the+matrix.;👨‍🚀+Creating+AI+agents+on+steroids.;💡+Turning+chaos+into+clean+code.;💥+Ship+fast+%7C+Fail+faster+%7C+Learn+forever." alt="Typing SVG" />
-
-</div>
+| Project | Description | Tech | Links |
+|:------:|:------------|:-----:|:------:|
+| **Terminal AI** | Futuristic CLI assistant: code, chat, deploy, automate, and visualize — all in terminal. | Python, OpenAI, Bash | [GitHub](https://github.com/KunjShah01/terminal-ai) |
+| **Movie Recommendation System** | NLP/sentiment/collaborative filtering powered AI film recommender. | Python, ML, NLP | [GitHub](https://github.com/KunjShah01/movie-recommendation) |
+| **UPI Fraud Detection** | ML-based fake transaction detection with real-time alerts. | Python, ML | [GitHub](https://github.com/KunjShah01/upi-fraud-detection) |
+| **Multi-Agent README Generator** | Gemini LLMs auto-generate beautiful READMEs from GitHub links. | Python, LLMs | [GitHub](https://github.com/KunjShah01/github-multi-ai-agent-readme-generator) |
+| **RL-A2A Protocol** | Custom RL-based Autonomous-to-Autonomous Protocol. | RL, Python | [GitHub](https://github.com/KunjShah01/RL-A2A.github.io) |
+| **SMS Spam Classifier** | Naive Bayes + Streamlit interface for live spam detection. | Python, ML | [GitHub](https://github.com/KunjShah01/sms-spam-detection) |
+| **YT Summary Generator** | Summarizes YouTube videos using speech-to-text & NLP. | Python, NLP | [GitHub](https://github.com/KunjShah01/youtube-video-summary) |
+| **Fake Job Detection** | ML + web scraping to filter scam job postings. | Python, ML, Scraping | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM-USING-NLP) |
 
 ---
 
-## 🔧 Unconventional Tech Stack 💥
+## 🦾 Terminal AI – Next-Gen CLI Assistant
+
+**Terminal AI** is a cutting-edge CLI tool for developers.
+- 🧠 Natural language code generation, refactoring, and explanation.
+- 🤖 AI chat, code suggestions, autocomplete, bug fixes.
+- 🚀 One-command deploys to cloud or containers.
+- 📊 Summarize logs, docs, and code diffs in real time.
+- 🔎 AI-powered code search and navigation.
+- 📋 Clipboard integration for instant code copy-paste.
+- 🔐 Security scans before every deployment.
+- 🎮 Built-in terminal games, themes, and productivity boosters.
+
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Languages** | **Frameworks** | **Databases/Cloud** | **Tools** | **Superpowers** |
+| Languages | Frameworks | Databases/Cloud | Tools | Focus Areas |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](https://skillicons.dev/icons?i=js,ts,python,go,html,css) | ![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask) | ![](https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp) | ![](https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,postman) | <img src="https://img.shields.io/badge/AI/ML-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Cybersec-000000?style=for-the-badge&logo=hackthebox&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Open%20Source-%2300b894?style=for-the-badge&logo=github&logoColor=white" height="22"/> |
+| ![](https://skillicons.dev/icons?i=js,ts,python,go,html,css) | ![](https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,express) | ![](https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp) | ![](https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,postman) | <img src="https://img.shields.io/badge/AI/ML-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Cybersec-000000?style=for-the-badge&logo=hackthebox&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Terminal%20AI-191622?style=for-the-badge&logo=gnubash&logoColor=white" height="22"/> |
 
 </div>
 
 ---
 
-## 🚀 Highlight Projects
-
-| Project | Description | Links |
-|--------|-------------|-------|
-| 🎬 **Movie Recommendation System** | AI-powered system recommending films based on NLP, sentiment & collaborative filtering. | [GitHub](https://github.com/KunjShah01/movie-recommendation) |
-| 🔐 **UPI Fraud Detection** | Detecting fake transactions using ML, with real-time alerts & analytics. | [GitHub](https://github.com/KunjShah01/upi-fraud-detection) |
-| 🤖 **Multi-Agent README Generator** | Uses Gemini LLMs to auto-generate beautiful READMEs from GitHub links. | [GitHub](https://github.com/KunjShah01/github-multi-ai-agent-readme-generator) |
-| 🎯 **RL-A2A Protocol** | My own Reinforcement Learning-based Autonomous-to-Autonomous Protocol. | [GitHub](https://github.com/KunjShah01/RL-A2A.github.io) |
-| 📩 **SMS Spam Classifier** | Naive Bayes + Streamlit interface to detect spam on the fly. | [GitHub](https://github.com/KunjShah01/sms-spam-detection) |
-| 📹 **YT Summary Generator** | Summarizes YouTube videos using speech-to-text & NLP. | [GitHub](https://github.com/KunjShah01/youtube-video-summary) |
-| 🧠 **Fake Job Detection** | ML + web scraping to filter scam job postings. | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM-USING-NLP) |
-
----
-
-## 📊 GitHub Activity + Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=radical&row=1&column=7)
-<br><br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=KunjShah95&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
@@ -84,31 +92,29 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunjShah95&bg_color=191622&color=ff6f00&line=ff6f00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 <br>
 <img src="https://komarev.com/ghpvc/?username=KunjShah95&label=Profile%20Views&color=ff6f00&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
 
-## 💌 Let’s Collab or Talk
+## 🤝 Let's Connect
 
-<div align="center">
+- 📧 **Email:** [kunjkshahdeveloper@gmail.com](mailto:kunjkshahdeveloper@gmail.com)
+- 💼 **LinkedIn:** [Kunj Shah](https://linkedin.com/in/kunjshah05)
+- 🌐 **Portfolio:** [Portfolio Website](https://kunjshah95.github.io/kunjs-portfolio-website.io/)
+- 🐦 **Twitter:** [@KunjShah95](https://twitter.com/KunjShah95)
 
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunjshah05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kunjshah95.github.io/kunjs-portfolio-website.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KunjShah95)
+---
 
-</div>
+## 🤝 Community & Contribution
+
+- ⭐ Star this repo if you like my work!
+- 🤗 Fork, open issues, and submit PRs — all contributions welcome.
+- 💬 Join discussions or DM for collaborations, hackathons, or ideas!
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=💬+Let's+ship+something+wild+together.;🧠+DM+me+your+chaotic+ideas.;⚡+Innovation+lives+here." />
-
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-<br><br>
 <i>“You weren’t born to blend in — you were coded to disrupt.”</i>
 
 </div>
