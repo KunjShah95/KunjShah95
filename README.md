@@ -46,7 +46,7 @@ I'm **Kunj Shah**, a passionate software developer and tech innovator from India
 | **RL-A2A Protocol** | Custom RL-based Autonomous-to-Autonomous Protocol. | RL, Python | [GitHub](https://github.com/KunjShah01/RL-A2A.github.io) |
 | **SMS Spam Classifier** | Naive Bayes + Streamlit interface for live spam detection. | Python, ML | [GitHub](https://github.com/KunjShah01/sms-spam-detection) |
 | **YT Summary Generator** | Summarizes YouTube videos using speech-to-text & NLP. | Python, NLP | [GitHub](https://github.com/KunjShah01/youtube-video-summary) |
-| **Fake Job Detection** | ML + web scraping to filter scam job postings. | Python, ML, Scraping | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM-USING-NLP) |
+| **Fake Job Detection** | ML + NLP to filter scam job postings. | Python, ML, NLP | [GitHub](https://github.com/KunjShah01/FAKE-JOB-DETECTION-SYSTEM-USING-NLP) |
 
 ---
 
