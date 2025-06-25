@@ -39,7 +39,7 @@ I'm **Kunj Shah**, a passionate software developer and tech innovator from India
 
 | Project | Description | Tech | Links |
 |:------:|:------------|:-----:|:------:|
-| **Terminal AI** | Futuristic CLI assistant: code, chat, deploy, automate, and visualize — all in terminal. | Python, OpenAI, Bash | [GitHub](https://github.com/KunjShah01/terminal-ai) |
+| **Terminal AI** | Futuristic CLI assistant: code, chat, deploy, automate, and visualize — all in terminal. | Python, OpenAI, Bash | [GitHub](https://github.com/KunjShah95/NEXUS-AI.io) |
 | **Movie Recommendation System** | NLP/sentiment/collaborative filtering powered AI film recommender. | Python, ML, NLP | [GitHub](https://github.com/KunjShah01/movie-recommendation) |
 | **UPI Fraud Detection** | ML-based fake transaction detection with real-time alerts. | Python, ML | [GitHub](https://github.com/KunjShah01/upi-fraud-detection) |
 | **Multi-Agent README Generator** | Gemini LLMs auto-generate beautiful READMEs from GitHub links. | Python, LLMs | [GitHub](https://github.com/KunjShah01/github-multi-ai-agent-readme-generator) |
