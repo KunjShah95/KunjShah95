@@ -5,7 +5,7 @@ Professional Developer Portfolio README
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80" alt="Terminal" />
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80" alt="Terminal" /> 
 
 # Kunj Shah
 
