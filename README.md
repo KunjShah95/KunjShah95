@@ -99,10 +99,10 @@ Git, Linux, VS Code, Jupyter, Postman
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunjShah95&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_bust=20250822)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=radical&hide_border=true&cache_bust=20250822)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunjShah95&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_bust=20250831)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=radical&hide_border=true&cache_bust=20250831)
 
 ---
 
 > _Always open to collaborations, feedback, or a good developer chat!_  
-> _Last updated: 2025-08-22 02:39:52 UTC_
+> _Last updated: 2025-08-31 04:31:36 UTC_
