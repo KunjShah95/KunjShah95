@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 KUNJ SHAH
-### `AI Engineer | Full Stack Architect | Open Source Creator`
+### `AI Engineer | Full Stack Learner | Open Source Contributor`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=800&height=100&lines=Building+Intelligent+Web+Experiences;AI+%7C+MLOps+%7C+Cloud+Native+%7C+Web+Dev;From+Data+Pipelines+to+Pixel-Perfect+UIs;Ahmedabad%2C+India+to+the+World+🌍" alt="Typing SVG" />
 
