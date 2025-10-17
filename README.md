@@ -103,31 +103,31 @@ print(kunj.current_mission())
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/KunjShah95/GitHub-Multi-Agent-README-Generator">🤖 GitHub README Generator</a></h3>
-<div align="center">  
-<a href="https://github.com/KunjShah95/GitHub-Multi-Agent-README-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=GitHub-Multi-Agent-README-Generator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub README Generator" />
-</a>
-<p><strong>Multi-agent system to auto-generate creative GitHub profiles.</strong></p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-4A90E2?style=flat&logo=openai&logoColor=white" />
-<a href="YOUR_DEPLOYMENT_LINK_HERE"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center"><a href="https://github.com/KunjShah95/Nexus">⚡ Nexus AI CLI</a></h3>
+<h3 align="center"><a href="https://github.com/KunjShah95/NEXUS-AI.io">⚡ Nexus AI CLI</a></h3>
 <div align="center">
-<a href="https://github.com/KunjShah95/Nexus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=Nexus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nexus AI CLI" />
+<a href="https://github.com/KunjShah95/NEXUS-AI.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=NEXUS-AI.io&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nexus AI CLI" />
 </a>
 <p><strong>An intelligent command-line tool to boost developer productivity.</strong></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Typer-00B39F?style=flat" />
-<a href="YOUR_DEPLOYMENT_LINK_HERE"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
+<a href="https://kunjshah95.github.io/NEXUS-AI.io/"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center"><a href="https://github.com/KunjShah95/MailMateAI.tech">📫 MailMate</a></h3>
+<div align="center">
+<a href="https://github.com/KunjShah95/MailMateAI.tech">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=MailMateAI.tech&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MailMate" />
+</a>
+<p><strong>AI-powered assistant for summarizing and managing emails.</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4A90E2?style=flat&logo=huggingface&logoColor=white" />
+<a href="https://kunjshah95.github.io/MailMateAI.tech/"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
 </p>
 </div>
 </td>
@@ -135,31 +135,16 @@ print(kunj.current_mission())
 
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/KunjShah95/MailMate">📫 MailMate</a></h3>
+<h3 align="center"><a href="https://github.com/KunjShah95/job-snipper">🎯 JobSniper / ResumeMaster</a></h3>
 <div align="center">
-<a href="https://github.com/KunjShah95/MailMate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=MailMate&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MailMate" />
-</a>
-<p><strong>AI-powered assistant for summarizing and managing emails.</strong></p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4A90E2?style=flat&logo=huggingface&logoColor=white" />
-<a href="YOUR_DEPLOYMENT_LINK_HERE"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center"><a href="https://github.com/KunjShah95/JobSniper">🎯 JobSniper</a></h3>
-<div align="center">
-<a href="https://github.com/KunjShah95/JobSniper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=JobSniper&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JobSniper" />
+<a href="https://github.com/KunjShah95/job-snipper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KunjShah95&repo=job-snipper&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="JobSniper" />
 </a>
 <p><strong>AI-powered resume analysis and job description matching.</strong></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-4A90E2?style=flat&logo=huggingface&logoColor=white" />
-<a href="YOUR_DEPLOYMENT_LINK_HERE"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
+<a href="https://resumemaster.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-4ECDC4?style=flat" /></a>
 </p>
 </div>
 </td>
@@ -167,6 +152,7 @@ print(kunj.current_mission())
 </table>
 
 </div>
+
 
 ---
 
