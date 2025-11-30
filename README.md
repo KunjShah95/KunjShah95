@@ -113,12 +113,55 @@ print(kunj.current_mission())
 
 ## 💡 FEATURED PROJECTS
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **⚡ Nexus AI CLI** | Intelligent command-line tool to boost developer productivity | Python, Typer, LLM APIs | ![Live](https://img.shields.io/badge/Live-4ECDC4?style=flat-square) |
-| 🕉️ **Sanskrit Tokenizer & GPT** | Fine-tuning GPT models for Sanskrit language with custom tokenizer | Python, Transformers, GPT | ![In Dev](https://img.shields.io/badge/In%20Dev-FFD93D?style=flat-square) |
+### 1. ⚡ Nexus AI CLI
+**Intelligent Command-Line Tool for Developer Productivity**
+- **Description**: An AI-powered CLI tool that boosts developer productivity by automating repetitive tasks and providing intelligent suggestions
+- **Tech Stack**: Python, Typer, LLM APIs, Groq
+- **Status**: 🔴 Live & Production Ready
+- **Repository**: [github.com/KunjShah95/NEXUS-AI.io](https://github.com/KunjShah95/NEXUS-AI.io)
+- **Key Features**: 
+  - Natural language command parsing
+  - Multi-model LLM support
+  - Real-time code analysis
+  - Developer workflow automation
 
-| **🧠 AETHER-AI** | Intelligent AI systems and agentic workflows | Python, LLMs, FastAPI | ![In Development](https://img.shields.io/badge/In%20Dev-FFD93D?style=flat-square) |
+### 2. 🕉️ Sanskrit Tokenizer & GPT Training
+**Fine-tuning GPT Models for Sanskrit Language Processing**
+- **Description**: Custom tokenizer and fine-tuning framework for training GPT models on Sanskrit language datasets with culture preservation focus
+- **Tech Stack**: Python, Transformers, GPT, PyTorch, HuggingFace
+- **Status**: 🟑️ In Development
+- **Repository**: [github.com/KunjShah95/TOKENIZER-FROM-SCRATCH](https://github.com/KunjShah95/TOKENIZER-FROM-SCRATCH)
+- **Key Features**:
+  - Custom Sanskrit tokenizer
+  - Multilingual token support  
+  - GPT-3.5/GPT-4 fine-tuning
+  - Cultural NLP preservation
+
+### 3. 🌟 ResumeMaster (JobSnipper)
+**AI-Powered Resume Analysis & Job Matching Platform**
+- **Description**: Intelligent resume analyzer that matches resumes with job descriptions using NLP and provides optimization recommendations
+- **Tech Stack**: Python, Streamlit, NLP, LLM APIs, Gemini
+- **Status**: 🔴 Live & Production Ready  
+- **Repository**: [github.com/KunjShah95/job-snipper](https://github.com/KunjShah95/job-snipper)
+- **Key Features**:
+  - Resume parsing & analysis
+  - Job-resume matching algorithm
+  - Skills gap identification
+  - Optimization suggestions
+
+### 4. 🧠 AETHER-AI
+**Intelligent AI Systems & Agentic Workflows**
+- **Description**: Comprehensive framework for building intelligent AI agents with advanced reasoning, planning, and autonomous execution capabilities
+- **Tech Stack**: Python, LLMs, FastAPI, LangChain, Anthropic Claude
+- **Status**: 🟑️ In Development
+- **Repository**: [github.com/KunjShah95/AETHER-AI](https://github.com/KunjShah95/AETHER-AI)
+- **Key Features**:
+  - Agentic AI framework
+  - Autonomous decision making
+  - Multi-step reasoning chains
+  - RESTful API deployment
+
+👉 **[View All Projects](https://github.com/KunjShah95?tab=repositories)**
 
 👉 **[View All Projects](https://github.com/KunjShah95?tab=repositories)**
 
