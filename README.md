@@ -62,6 +62,7 @@ class KunjShah:
             "ResumeMaster - AI-powered resume analysis",
             "AETHER-AI - Intelligent AI systems",
             "Nexus AI CLI - Developer productivity tool",
+            "Sanskrit Tokenizer & GPT Training - Fine-tuning GPT models for Sanskrit language",
             "Agentic AI workflows"
         ]
 
@@ -115,8 +116,8 @@ print(kunj.current_mission())
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | **⚡ Nexus AI CLI** | Intelligent command-line tool to boost developer productivity | Python, Typer, LLM APIs | ![Live](https://img.shields.io/badge/Live-4ECDC4?style=flat-square) |
-| **📫 MailMate** | AI-powered assistant for summarizing and managing emails | Python, NLP, FastAPI | ![Live](https://img.shields.io/badge/Live-4ECDC4?style=flat-square) |
-| **🎯 ResumeMaster** | AI-powered resume analysis and job description matching | Python, NLP, Streamlit | ![Live](https://img.shields.io/badge/Live-4ECDC4?style=flat-square) |
+| 🕉️ **Sanskrit Tokenizer & GPT** | Fine-tuning GPT models for Sanskrit language with custom tokenizer | Python, Transformers, GPT | ![In Dev](https://img.shields.io/badge/In%20Dev-FFD93D?style=flat-square) |
+
 | **🧠 AETHER-AI** | Intelligent AI systems and agentic workflows | Python, LLMs, FastAPI | ![In Development](https://img.shields.io/badge/In%20Dev-FFD93D?style=flat-square) |
 
 👉 **[View All Projects](https://github.com/KunjShah95?tab=repositories)**
