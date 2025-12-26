@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Agentic+AI+Developer+%7C+AI+Systems+Architect;Building+Autonomous+Intelligent+Agents;LLM+Engineering+%7C+Multi-Agent+Systems;Transforming+Ideas+into+Intelligent+Automation" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/📧_Email-kunjkshahdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-kunjkshahdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail. com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kunjshah.vercel.app-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://kunjshah.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-kunjshah05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjshah05)
 [![Twitter](https://img.shields.io/badge/𝕏_Twitter-@kunjshah__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kunjshah_dev)
@@ -95,7 +95,7 @@ print(agent_developer.agent_philosophy())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E? style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -135,10 +135,35 @@ print(agent_developer.agent_philosophy())
 
 ## 🚀 Featured Agentic AI Projects
 
-### 🧠 **AETHER-AI:  Autonomous Agent Framework**
-<img src="https://img.shields.io/github/stars/KunjShah95/AETHER-AI?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/AETHER-AI?style=social" />
+### 🛡️ **SENTINEL CLI:  AI-Powered Code Guardian**
+<img src="https://img.shields.io/github/stars/KunjShah95/SENTINEL-CLI?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/SENTINEL-CLI?style=social" /> <img src="https://img.shields.io/npm/v/sentinel-cli. svg?style=flat-square&color=blue" />
 
-A comprehensive framework for building intelligent AI agents with autonomous execution capabilities. 
+A local-first AI-powered code review tool with 13+ specialized analyzers for security, quality, and accessibility. 
+
+**🎯 Key Features:**
+- 🔒 **Security Scanning** - SQL injection, XSS, secrets detection, Docker/K8s security
+- 🤖 **Multi-LLM Support** - OpenAI, Groq, Gemini, Anthropic, OpenRouter integration
+- 💎 **TypeScript Analysis** - Type safety checks, `any` detection, strict mode validation
+- ⚛️ **React Analysis** - Hooks rules, performance optimization, JSX validation
+- ♿ **Accessibility** - WCAG 2.1 compliance, ARIA validation, semantic HTML checks
+- 📦 **Dependency Scanning** - CVE detection, license compliance, npm audit integration
+- 🔧 **Auto-fix Capabilities** - Automatically fix common code issues
+- 🌐 **Web Dashboard** - Beautiful visualization of security posture and trends
+- 🔗 **GitHub PR Integration** - Post reviews directly to pull requests
+- 📊 **SARIF Output** - GitHub Security tab integration
+
+**🛠️ Tech Stack:** Node.js, JavaScript, AI/LLM APIs, Docker, Kubernetes
+
+**🌟 Why It's Special:** Unlike hosted SaaS tools, Sentinel runs 100% locally—your code never leaves your machine. You control your AI keys and data privacy.
+
+[🔗 View Repository →](https://github.com/KunjShah95/SENTINEL-CLI) | [📦 npm Package →](https://www.npmjs.com/package/sentinel-cli)
+
+---
+
+### 🧠 **AETHER-AI:  Autonomous Agent Framework**
+<img src="https://img.shields.io/github/stars/KunjShah95/AETHER-AI?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/AETHER-AI? style=social" />
+
+A comprehensive framework for building intelligent AI agents with autonomous execution capabilities.  
 
 **🎯 Key Features:**
 - 🤖 Multi-agent orchestration with task delegation
@@ -180,7 +205,7 @@ Custom tokenization and GPT fine-tuning for Sanskrit language preservation throu
 
 **🎯 Key Features:**
 - 📚 BPE tokenizer built from scratch for Sanskrit
-- 🧘 Fine-tuning pipeline for GPT-3.5/GPT-4
+- 🧘 Fine-tuning pipeline for GPT-3. 5/GPT-4
 - 🔤 Devanagari script handling
 - 🌍 Multilingual support (Sanskrit, Hindi, English)
 - 📊 Custom evaluation metrics for cultural NLP
@@ -315,7 +340,7 @@ An intelligent agent that analyzes resumes and matches candidates with optimal o
 
 <div align="center">
 
-### 🤝 Open for Exciting Opportunities!
+### 🤝 Open for Exciting Opportunities! 
 
 | 💡 Category | 🎯 Details |
 |:------------|:-----------|
@@ -336,7 +361,7 @@ An intelligent agent that analyzes resumes and matches candidates with optimal o
 
 ## 🔄 Automated Intelligence
 
-This README is **autonomously maintained** by a GitHub Actions agent—practicing what I preach! 
+This README is **autonomously maintained** by a GitHub Actions agent—practicing what I preach!  
 
 **🤖 Automated Updates Include:**
 - ✅ Daily metrics refresh (commits, PRs, stars, issues)
@@ -347,7 +372,7 @@ This README is **autonomously maintained** by a GitHub Actions agent—practicin
 
 **⏰ Update Frequency:** Every 24 hours at 00:00 UTC
 
-*Yes, even my README is agentic! * 🎯
+*Yes, even my README is agentic!* 🎯
 
 ---
 
@@ -403,7 +428,7 @@ This README is **autonomously maintained** by a GitHub Actions agent—practicin
 
 ---
 
-### 🌟 *"First, solve the problem. Then, write the code.  But best?  Build an agent to solve it autonomously."*
+### 🌟 *"First, solve the problem. Then, write the code. But best?  Build an agent to solve it autonomously."*
 
 ---
 
@@ -416,6 +441,6 @@ This README is **autonomously maintained** by a GitHub Actions agent—practicin
 
 ---
 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
 
 </div>
