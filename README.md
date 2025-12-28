@@ -179,24 +179,6 @@ A comprehensive framework for building intelligent AI agents with autonomous exe
 
 ---
 
-### ⚡ **Nexus AI CLI: Intelligent Developer Assistant**
-<img src="https://img.shields.io/github/stars/KunjShah95/NEXUS-AI. io?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/NEXUS-AI.io?style=social" />
-
-An AI-powered command-line agent that acts as your intelligent development partner.
-
-**🎯 Key Features:**
-- 💬 Natural language to shell command translation
-- 🔍 Codebase semantic search & analysis
-- 🤖 Multi-LLM support (GPT-4, Claude, Groq, Llama)
-- 🔧 Automated workflow generation
-- 📝 Context-aware code suggestions
-- 🚀 One-shot deployment scripts
-
-**🛠️ Tech Stack:** Python, Click, Transformers, LangChain, Git integration
-
-[🔗 View Repository →](https://github.com/KunjShah95/NEXUS-AI.io)
-
----
 
 ### 🕉️ **Sanskrit Tokenizer & LLM Fine-tuning**
 <img src="https://img.shields.io/github/stars/KunjShah95/TOKENIZER-FROM-SCRATCH?style=social" />
