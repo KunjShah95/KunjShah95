@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Agentic+AI+Developer+%7C+AI+Systems+Architect;Building+Autonomous+Intelligent+Agents;LLM+Engineering+%7C+Multi-Agent+Systems;Transforming+Ideas+into+Intelligent+Automation" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/📧_Email-kunjkshahdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kunjshah.vercel.app-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://kunjshah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kunjshah.vercel.app-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://kunjs-portfolio-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-kunjshah05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjshah05)
 [![Twitter](https://img.shields.io/badge/𝕏_Twitter-@kunjshah__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kunjshah_dev)
 
