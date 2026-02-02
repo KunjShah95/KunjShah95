@@ -313,7 +313,7 @@ The below example provides fallback options that always work.
 ## 🎓 Education & Expertise
 
 **🎓 Indus University** | Bachelor of Technology in Computer Science (3rd Year)
-- **SGPA:** 8.7/10
+- **SGPA:** 9/10
 - **Focus Areas:** Artificial Intelligence, Machine Learning, Agentic Systems, Software Engineering
 - **Key Courses:** Deep Learning, NLP, Distributed Systems, Algorithm Design
 
@@ -408,7 +408,7 @@ This README is **autonomously maintained** by a GitHub Actions agent—practicin
 [![GitHub](https://img.shields.io/badge/GitHub-KunjShah95-181717?style=for-the-badge&logo=github)](https://github.com/KunjShah95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunjshah05)
 [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/kunjshah_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=firefox)](https://kunjshah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=firefox)](https://kunjs-portfolio-website.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:kunjkshahdeveloper@gmail.com)
 
 ---
