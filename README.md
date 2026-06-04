@@ -1,431 +1,193 @@
 <div align="center">
 
-# 🤖 Kunj Shah | Agentic AI Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Agentic+AI+Developer+%7C+AI+Systems+Architect;Building+Autonomous+Intelligent+Agents;LLM+Engineering+%7C+Multi-Agent+Systems;Transforming+Ideas+into+Intelligent+Automation" alt="Typing SVG" />
+# Kunj Shah
 
-[![Email](https://img.shields.io/badge/📧_Email-kunjkshahdeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kunjshah.vercel.app-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://kunjs-portfolio-website.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-kunjshah05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjshah05)
-[![Twitter](https://img.shields.io/badge/𝕏_Twitter-@kunjshah__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kunjshah_dev)
+**AI Agent Developer · Developer Tools · LLM Systems**
 
-<img src="https://komarev.com/ghpvc/?username=KunjShah95&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="visitors" />
+I build AI-powered tools that ship — not demos, not experiments, real things.  
+Currently building [AgentForge](https://github.com/KunjShah95), a memory-driven career operating system.  
+Author of [`sentinel-cli`](https://www.npmjs.com/package/sentinel-cli) — local-first AI code reviewer on npm.
 
-</div>
-
----
-
-## 🎯 About Me:  The Agentic AI Architect
-
-```python
-class AgenticAIDeveloper:
-    """
-    An AI developer who doesn't just build models—I build autonomous agents 
-    that think, plan, and execute complex tasks independently.
-    """
-    def __init__(self):
-        self.name = "Kunj Shah"
-        self.role = "Agentic AI Developer & Systems Architect"
-        self.location = "Ahmedabad, India 🇮🇳"
-        self.education = "Indus University | CS (SGPA: 8.7)"
-        self.mission = "Democratizing AI through autonomous agent systems"
-    def specializations(self):
-        return {
-            "agentic_systems": [
-                "Multi-agent orchestration",
-                "Autonomous decision-making systems",
-                "Tool-using AI agents",
-                "ReAct & Chain-of-Thought prompting",
-                "Agent memory & context management"
-            ],
-            "llm_engineering": [
-                "Fine-tuning GPT & LLaMA models",
-                "Retrieval-Augmented Generation (RAG)",
-                "Prompt engineering & optimization",
-                "Custom tokenizer development",
-                "Model evaluation & benchmarking"
-            ],
-            "ai_frameworks": [
-                "LangChain & LangGraph",
-                "AutoGPT & CrewAI",
-                "Semantic Kernel",
-                "Custom agent frameworks",
-                "LLM orchestration pipelines"
-            ]
-        }
-    def current_missions(self):
-        return [
-            "🧠 Building multi-agent systems for complex task decomposition",
-            "⚡ Developing high-performance LLM inference pipelines",
-            "🔧 Creating developer tools for AI agent workflows",
-            "📚 Fine-tuning domain-specific language models",
-            "🌍 Contributing to open-source AI agent frameworks"
-        ]
-    def agent_philosophy(self):
-        return """
-        Agentic AI isn't about replacing humans—it's about amplifying 
-        human potential through intelligent automation. I build agents 
-        that reason, learn, and adapt to solve real-world problems.
-        """
-
-# Initialize
-agent_developer = AgenticAIDeveloper()
-print(agent_developer.agent_philosophy())
-```
-
-<div align="center">
-
-### 🌟 **Vision Statement**
-*"In the age of AI, the future belongs to those who can build systems that think autonomously.  I craft intelligent agents that don't just respond—they reason, plan, and execute."*
+`Ahmedabad, India` · `Open to roles & freelance` · `3rd Year CS @ Indus University`
 
 </div>
 
 ---
 
-## 🛠️ Agentic AI Technology Stack
+## About Me
+
+I got tired of building chatbots. So I started building tools that actually do things.
+
+Most of my work lives at the intersection of LLMs and developer workflows — code reviewers, agent pipelines, memory systems. I care about tools that work offline, respect your data, and don't need a SaaS subscription to be useful.
+
+Right now I'm deep in:
+- Multi-agent orchestration with LangGraph
+- Memory architectures for long-running AI systems
+- MCP (Model Context Protocol) and what it changes for agent tooling
+- LLM evaluation — because "it feels right" isn't a metric
+
+My development philosophy: ship first, refine second, don't tutorial-grind. The best way to understand a system is to break one.
+
+---
+
+## Tech Stack
+
+**Languages**
+`Python` `TypeScript` `JavaScript` `SQL`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
+
+**Backend**
+`FastAPI` `Node.js` `PostgreSQL` `Redis`
+
+**AI/ML**
+`LangChain` `LangGraph` `OpenAI SDK` `Anthropic SDK` `HuggingFace Transformers` `CrewAI`
+
+**Vector Databases**
+`Pinecone` `ChromaDB` `FAISS` `Weaviate`
+
+**Cloud & DevOps**
+`Docker` `GitHub Actions` `Vercel` `Google Cloud`
+
+**APIs & Integrations**
+`OpenAI` `Anthropic Claude` `Groq` `Gemini` `OpenRouter`
+
+---
+
+## Currently Building
+
+### 🧭 AgentForge Career OS
+A memory-driven autonomous career operating system. Not another job board wrapper — a multi-agent system that tracks your career trajectory, surfaces opportunities, preps you for interviews, and remembers everything across sessions.
+
+**Why it matters:** Most career tools treat you as a static resume. AgentForge treats your career as a stateful, evolving system.
+
+**Stack:** Next.js · FastAPI · LangGraph · PostgreSQL · Pinecone · Anthropic Claude
+
+**Status:** Architecture phase. Backend scaffolding in progress.
+
+---
+
+## Featured Projects
+
+### sentinel-cli · AI-Powered Code Guardian
+
+> Your codebase, reviewed locally. No SaaS. No data leaks. Your keys, your rules.
+
+**Problem:** Existing code review tools are either cloud-dependent, expensive, or shallow.
+
+**Solution:** A local-first CLI with 13+ specialized analyzers covering security, accessibility, TypeScript strictness, React patterns, and dependency vulnerabilities. Plugs into any LLM (OpenAI, Claude, Groq, Gemini).
+
+**Stack:** Node.js · TypeScript · Multi-LLM APIs · Docker
+
+**Key Features:**
+- SQL injection, XSS, secrets detection
+- WCAG 2.1 accessibility checks
+- GitHub PR integration via CLI
+- SARIF output for GitHub Security tab
+- Auto-fix for common issues
+- Works 100% offline for static analysis
+
+**Learned:** How to design extensible analyzer pipelines. Plugin architecture that doesn't become spaghetti at scale.
+
+[→ Repository](https://github.com/KunjShah95/SENTINEL-CLI) · [→ npm Package](https://www.npmjs.com/package/sentinel-cli)
+
+---
+
+### AETHER-AI · Autonomous Agent Framework
+
+> A framework for agents that plan, not just respond.
+
+**Problem:** LangChain is powerful but complex. Most teams need a simpler, opinionated wrapper to build reliable agents fast.
+
+**Solution:** Modular agent framework with built-in tool integration, state monitoring, and persistent memory. REST API included for deployment.
+
+**Stack:** Python · LangChain · OpenAI GPT-4 · FastAPI · PostgreSQL
+
+[→ Repository](https://github.com/KunjShah95/AETHER-AI)
+
+---
+
+### Sanskrit Tokenizer · Language Preservation via AI
+
+> Ancient script. Modern tokenization. BPE from scratch.
+
+**Problem:** Sanskrit is morphologically complex. No production-grade tokenizer existed for GPT fine-tuning workflows.
+
+**Solution:** Custom BPE tokenizer built from scratch. Fine-tuning pipeline for GPT-3.5/4 on Devanagari text. Multilingual support across Sanskrit, Hindi, English.
+
+**Stack:** Python · PyTorch · Transformers · OpenAI API
+
+[→ Repository](https://github.com/KunjShah95/TOKENIZER-FROM-SCRATCH)
+
+---
+
+### promptvault.dev · Prompt Management for Teams
+
+> Because good prompts deserve version control.
+
+**Stack:** TypeScript · React · Node.js
+
+[→ Repository](https://github.com/KunjShah95/promptvault.dev)
+
+---
+
+## Open Source
+
+Primarily building my own tools right now. Actively exploring contributions to:
+- `LangChain` — agent tooling and memory modules
+- `LangGraph` — stateful agent workflows
+- `HuggingFace Transformers` — tokenizer tooling
+
+Communities: LangChain Discord · Hugging Face Forums · IndiaAI community
+
+---
+
+## Learning Journey
+
+Currently going deep on:
+
+| Topic | Status |
+|---|---|
+| LangGraph stateful agents | Active |
+| MCP (Model Context Protocol) | Active |
+| Agent memory architectures | Active |
+| LLM evaluation frameworks | Active |
+| Multi-agent coordination patterns | Active |
+| RAG pipeline optimization | Ongoing |
+| Distributed systems fundamentals | Ongoing |
+| Vector DB internals | Exploring |
+
+---
+
+## GitHub Philosophy
+
+I push when things work, not when they're perfect. Readmes matter. Tests matter more. If a project has no README, it might as well not exist.
+
+I prefer small, focused repos over monorepo sprawl. I'd rather have five sharp tools than one giant project that tries to do everything.
+
+Commits tell a story — I try to make them readable.
+
+---
+
+## Let's Connect
+
+| | |
+|---|---|
+| 🌐 Portfolio | [kunjshah.vercel.app](https://kunjs-portfolio-website.vercel.app/) |
+| 💼 LinkedIn | [linkedin.com/in/kunjshah05](https://www.linkedin.com/in/kunjshah05) |
+| 📧 Email | kunjkshahdeveloper@gmail.com |
+| 🐦 X / Twitter | [@kunjshah_dev](https://x.com/kunjshah_dev) |
+| 📄 Resume | _[link placeholder]_ |
+
+Always happy to connect with builders, founders, and curious developers.
+
+If you're working on something in AI tooling, agent systems, or developer productivity — reach out.
 
 <div align="center">
 
-### **Core Agentic AI & LLM Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### **Agent Development & Orchestration**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/AutoGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### **Vector Databases & RAG**
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge&logo=weaviate&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### **Backend & API Development**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Frontend & Deployment**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Agentic AI Projects
-
-### 🛡️ **SENTINEL CLI:  AI-Powered Code Guardian**
-<img src="https://img.shields.io/github/stars/KunjShah95/SENTINEL-CLI?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/SENTINEL-CLI?style=social" /> <img src="https://img.shields.io/npm/v/sentinel-cli.svg?style=flat-square&color=blue" />
-
-A local-first AI-powered code review tool with 13+ specialized analyzers for security, quality, and accessibility. 
-
-**🎯 Key Features:**
-- 🔒 **Security Scanning** - SQL injection, XSS, secrets detection, Docker/K8s security
-- 🤖 **Multi-LLM Support** - OpenAI, Groq, Gemini, Anthropic, OpenRouter integration
-- 💎 **TypeScript Analysis** - Type safety checks, `any` detection, strict mode validation
-- ⚛️ **React Analysis** - Hooks rules, performance optimization, JSX validation
-- ♿ **Accessibility** - WCAG 2.1 compliance, ARIA validation, semantic HTML checks
-- 📦 **Dependency Scanning** - CVE detection, license compliance, npm audit integration
-- 🔧 **Auto-fix Capabilities** - Automatically fix common code issues
-- 🌐 **Web Dashboard** - Beautiful visualization of security posture and trends
-- 🔗 **GitHub PR Integration** - Post reviews directly to pull requests
-- 📊 **SARIF Output** - GitHub Security tab integration
-
-**🛠️ Tech Stack:** Node.js, JavaScript, AI/LLM APIs, Docker, Kubernetes
-
-**🌟 Why It's Special:** Unlike hosted SaaS tools, Sentinel runs 100% locally—your code never leaves your machine. You control your AI keys and data privacy.
-
-[🔗 View Repository →](https://github.com/KunjShah95/SENTINEL-CLI) | [📦 npm Package →](https://www.npmjs.com/package/sentinel-cli)
-
----
-
-### 🧠 **AETHER-AI:  Autonomous Agent Framework**
-<img src="https://img.shields.io/github/stars/KunjShah95/AETHER-AI?style=social" /> <img src="https://img.shields.io/github/forks/KunjShah95/AETHER-AI?style=social" />
-
-A comprehensive framework for building intelligent AI agents with autonomous execution capabilities.  
-
-**🎯 Key Features:**
-- 🤖 Multi-agent orchestration with task delegation
-- 🧩 Modular tool integration (web search, code execution, file operations)
-- 🔄 Chain-of-thought reasoning & planning
-- 📊 Real-time agent state monitoring
-- 🔌 RESTful API for agent deployment
-- 💾 Persistent memory & context management
-
-**🛠️ Tech Stack:** Python, LangChain, OpenAI GPT-4, FastAPI, PostgreSQL
-
-[🔗 View Repository →](https://github.com/KunjShah95/AETHER-AI)
-
----
-
-### 🕉️ **Sanskrit Tokenizer & LLM Fine-tuning**
-<img src="https://img.shields.io/github/stars/KunjShah95/TOKENIZER-FROM-SCRATCH?style=social" />
-
-Custom tokenization and GPT fine-tuning for Sanskrit language preservation through AI.
-
-**🎯 Key Features:**
-- 📚 BPE tokenizer built from scratch for Sanskrit
-- 🧘 Fine-tuning pipeline for GPT-3.5/GPT-4
-- 🔤 Devanagari script handling
-- 🌍 Multilingual support (Sanskrit, Hindi, English)
-- 📊 Custom evaluation metrics for cultural NLP
-
-**🛠️ Tech Stack:** Python, Transformers, PyTorch, Regex, OpenAI API
-
-[🔗 View Repository →](https://github.com/KunjShah95/TOKENIZER-FROM-SCRATCH)
-
----
-
-### 🎯 **ResumeMaster (JobSnipper): AI Job-Match Agent**
-<img src="https://img.shields.io/github/stars/KunjShah95/job-snipper?style=social" />
-
-An intelligent agent that analyzes resumes and matches candidates with optimal opportunities.
-
-**🎯 Key Features:**
-- 📄 Advanced resume parsing with NER
-- 🎯 Semantic job-resume matching
-- 🔍 Skills gap analysis with recommendations
-- 💼 ATS optimization suggestions
-- 📊 Real-time job market insights
-
-**🛠️ Tech Stack:** Python, spaCy, Transformers, FastAPI, React, PostgreSQL
-
-[🔗 View Repository →](https://github.com/KunjShah95/job-snipper)
-
----
-
-<div align="center">
-
-### 📁 **[Explore All Projects →](https://github.com/KunjShah95?tab=repositories)**
-
-</div>
-
----
-
-## 📊 Agent Development Metrics
-
-<div align="center">
-
-<!-- 
-If you use local SVGs (e.g., generated by a workflow), make sure these files exist in your repository.
-If you do not run GitHub Actions to generate these, you may want to use public stats SVGs instead. 
-The below example provides fallback options that always work.
--->
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KunjShah95&show_icons=true&theme=react" width="400" alt="Core Metrics"/>
-      <br/><b>Core Metrics</b>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunjShah95&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="400" alt="Development Activity"/>
-      <br/><b>Development Activity</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjShah95&theme=react&hide_border=true&layout=compact" width="400" alt="Tech Stack Distribution"/>
-      <br/><b>Tech Stack Distribution</b>
-    </td>
-    <td align="center">
-      <img src="https://github-streak-stats.demolab.com?user=KunjShah95&theme=react&hide_border=true" width="400" alt="Contribution Heatmap"/>
-      <br/><b>Contribution Heatmap</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KunjShah95&theme=vue" width="400" alt="Coding Patterns"/>
-      <br/><b>Coding Patterns</b>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunjShah95&theme=vue" width="400" alt="Achievements"/>
-      <br/><b>Achievements</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KunjShah95&theme=vue" width="400" alt="Project Analytics"/>
-      <br/><b>Project Analytics</b>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunjShah95&theme=vue" width="400" alt="Community Impact"/>
-      <br/><b>Community Impact</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KunjShah95&theme=vue" width="400" alt="Notable Contributions"/>
-      <br/><b>Notable Contributions</b>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=KunjShah95&theme=vue" width="400" alt="Community Engagement"/>
-      <br/><b>Community Engagement</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Recognition & Achievements
-
-<div align="center">
-
-| 🎖️ Achievement | 📝 Details | 📅 Year |
-|: ---------------|:-----------|:--------|
-| **🥇 DevsNest 2.0 Finalist** | Top 10 Finalist with DocuVerse (AI Document Intelligence) | 2024 |
-| **🏆 Smart India Hackathon** | University Level Winner (AI-powered solutions) | 2024 |
-| **☁️ Google Cloud Ready Facilitator** | Cloud infrastructure & AI deployment | 2024 |
-| **🦈 Pull Shark x2** | Major open-source contributions milestone | 2024-2025 |
-| **⭐ GitHub Achievements** | Arctic Code Vault Contributor, Quickdraw | 2024-2025 |
-
-</div>
-
----
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunjShah95&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
----
-
-## 🎓 Education & Expertise
-
-**🎓 Indus University** | Bachelor of Technology in Computer Science (3rd Year)
-- **SGPA:** 9/10
-- **Focus Areas:** Artificial Intelligence, Machine Learning, Agentic Systems, Software Engineering
-- **Key Courses:** Deep Learning, NLP, Distributed Systems, Algorithm Design
-
-**📍 Location:** Ahmedabad, India 🇮🇳
-
----
-
-## 💼 Collaboration & Opportunities
-
-<div align="center">
-
-### 🤝 Open for Exciting Opportunities! 
-
-| 💡 Category | 🎯 Details |
-|:------------|:-----------|
-| **🚀 Available For** | Freelance AI agent projects, LLM consulting, technical architecture |
-| **💼 Seeking** | Full-time roles in Agentic AI, LLM Engineering, AI Research |
-| **🌍 Open Source** | Contributing to LangChain, Transformers, AI agent frameworks |
-| **🎤 Speaking** | Tech talks on agentic AI, LLM fine-tuning, autonomous systems |
-| **📚 Mentoring** | Guiding developers into AI/ML and agentic system development |
-
-### 📬 Let's Build Something Autonomous Together!
-
-[![Schedule a Call](https://img.shields.io/badge/📅_Schedule_Call-Calendly-00D9FF?style=for-the-badge)](https://calendly.com/kunjshah)
-[![Send Email](https://img.shields.io/badge/📧_Email_Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
-
-</div>
-
----
-
-## 🔄 Automated Intelligence
-
-This README is **autonomously maintained** by a GitHub Actions agent—practicing what I preach!  
-
-**🤖 Automated Updates Include:**
-- ✅ Daily metrics refresh (commits, PRs, stars, issues)
-- ✅ Language distribution & coding activity analysis
-- ✅ Achievement tracking & badge updates
-- ✅ Community engagement metrics
-- ✅ Project statistics synchronization
-
-**⏰ Update Frequency:** Every 24 hours at 00:00 UTC
-
-*Yes, even my README is agentic!* 🎯
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/KunjShah95/KunjShah95/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💭 Philosophy on Agentic AI
-
-<div align="center">
-
-> *"The true power of AI isn't in prediction—it's in autonomous action.  Agentic AI systems don't just analyze data; they reason about goals, plan multi-step solutions, and execute tasks in dynamic environments.  That's the future I'm building."*
-> 
-> **— Kunj Shah**
-
----
-
-### 🌟 Favorite Principles
-
-**1. Autonomy Over Automation** - Build agents that think, not just execute  
-**2. Tool-Using Intelligence** - Real agents know how to use tools effectively  
-**3. Reasoning Before Action** - Planning and reflection lead to better outcomes  
-**4. Human-AI Collaboration** - Agents should amplify, not replace, human creativity  
-
----
-
-### 📚 Currently Reading & Learning
-
-- 📖 "Building LLM Apps" by Michael Galarnyk
-- 🎓 Stanford CS224N: Natural Language Processing with Deep Learning
-- 📄 Research:  Multi-Agent Reinforcement Learning (MARL)
-- 🔬 Experimenting:  Mixture-of-Agents architectures
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-KunjShah95-181717?style=for-the-badge&logo=github)](https://github.com/KunjShah95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunjshah05)
-[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/kunjshah_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=firefox)](https://kunjs-portfolio-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:kunjkshahdeveloper@gmail.com)
-
----
-
-### 🌟 *"First, solve the problem. Then, write the code. But best?  Build an agent to solve it autonomously."*
-
----
-
-**Made with 💙, ☕, and 🤖 by Kunj Shah**
-
-⭐ **If my work resonates with you, consider starring my repositories!**
-
-![GitHub followers](https://img.shields.io/github/followers/KunjShah95?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/KunjShah95?label=Total%20Stars&style=social)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
