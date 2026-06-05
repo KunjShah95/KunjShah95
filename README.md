@@ -10,7 +10,7 @@ I build AI-powered tools that ship — not demos, not experiments, real things.
 Currently building [AgentForge](https://github.com/KunjShah95), a memory-driven career operating system.  
 Author of [`sentinel-cli`](https://www.npmjs.com/package/sentinel-cli) — local-first AI code reviewer on npm.
 
-`Ahmedabad, India` · `Open to roles & freelance` · `3rd Year CS @ Indus University`
+`Ahmedabad, India` · `Open to roles & freelance` · `4th Year CS @ Indus University`
 
 </div>
 
