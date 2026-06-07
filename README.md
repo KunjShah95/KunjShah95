@@ -192,14 +192,7 @@ A terminal-first AI agent orchestration system. Think of it as an OS layer for r
 
 ---
 
-## Open Source Contributions
 
-| Repository | Contribution | Status |
-|---|---|---|
-| [ayush-that/codejeet](https://github.com/ayush-that/codejeet/pull/13) | README improvements | ✅ Merged |
-
-Actively exploring contributions to `LangChain`, `LangGraph`, and `HuggingFace Transformers`.  
-Communities: LangChain Discord · Hugging Face Forums · IndiaAI
 
 ---
 
