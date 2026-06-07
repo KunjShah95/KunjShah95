@@ -35,7 +35,7 @@ My development philosophy: ship first, refine second, don't tutorial-grind. The 
 ## Tech Stack
 
 **Languages**
-`Python` `TypeScript` `JavaScript` `SQL`
+`Python` `TypeScript` `JavaScript` `SQL` `Bun`
 
 **Frontend**
 `React` `Next.js` `Tailwind CSS`
@@ -50,7 +50,7 @@ My development philosophy: ship first, refine second, don't tutorial-grind. The 
 `Pinecone` `ChromaDB` `FAISS` `Weaviate`
 
 **Cloud & DevOps**
-`Docker` `GitHub Actions` `Vercel` `Google Cloud`
+`Docker` `Kubernetes` `GitHub Actions` `Vercel` `Google Cloud`
 
 **APIs & Integrations**
 `OpenAI` `Anthropic Claude` `Groq` `Gemini` `OpenRouter`
@@ -67,6 +67,17 @@ A memory-driven autonomous career operating system. Not another job board wrappe
 **Stack:** Next.js · FastAPI · LangGraph · PostgreSQL · Pinecone · Anthropic Claude
 
 **Status:** Architecture phase. Backend scaffolding in progress.
+
+---
+
+### 🧠 Neuron OS
+A terminal-first AI agent orchestration system. Think of it as an OS layer for running, managing, and chaining AI agents from the command line — built for developers who live in the terminal.
+
+**Why it matters:** Most agent frameworks are GUI-first or notebook-first. Neuron OS is built for composability, piping agents like Unix commands.
+
+**Stack:** TypeScript · Bun · LangGraph · MCP
+
+**Status:** Active development. [→ Repository](https://github.com/KunjShah95/neuron-os)
 
 ---
 
@@ -90,9 +101,28 @@ A memory-driven autonomous career operating system. Not another job board wrappe
 - Auto-fix for common issues
 - Works 100% offline for static analysis
 
-**Learned:** How to design extensible analyzer pipelines. Plugin architecture that doesn't become spaghetti at scale.
-
 [→ Repository](https://github.com/KunjShah95/SENTINEL-CLI) · [→ npm Package](https://www.npmjs.com/package/sentinel-cli)
+
+---
+
+### BUILDING-MY-OWN-VECTOR-DB · Vector Database from Scratch
+
+> Nine ANN algorithms. Hand-rolled. No shortcuts.
+
+**Problem:** Most developers use vector DBs as black boxes. I wanted to understand what's actually happening inside.
+
+**Solution:** A production-grade vector database built from scratch in Python featuring nine hand-rolled ANN algorithms (HNSW, IVF, PQ, LSH, and more), a full RAG pipeline, multimodal ingestion, FastAPI server, and Kubernetes deployment configs.
+
+**Stack:** Python · FastAPI · NumPy · Docker · Kubernetes
+
+**Key Features:**
+- 9 ANN algorithms implemented from scratch
+- RAG pipeline with multimodal support
+- REST API via FastAPI
+- K8s deployment configs for production
+- Benchmarking suite across algorithms
+
+[→ Repository](https://github.com/KunjShah95/BUILDING-MY-OWN-VECTOR-DB)
 
 ---
 
@@ -124,7 +154,35 @@ A memory-driven autonomous career operating system. Not another job board wrappe
 
 ---
 
-### promptvault.dev · Prompt Management for Teams
+### job-sniper · AI Resume-Job Matching Agent
+
+> Stop applying blindly. Know your fit score before you apply.
+
+**Problem:** Job seekers waste hours applying to roles they're underqualified or overqualified for.
+
+**Solution:** An intelligent agent that parses resumes with NER, semantically matches them to job descriptions, surfaces skills gaps, and gives ATS optimization suggestions.
+
+**Stack:** Python · spaCy · Transformers · FastAPI · React · PostgreSQL
+
+[→ Repository](https://github.com/KunjShah95/job-snipper)
+
+---
+
+### gapminer · Skills Gap Analysis Engine
+
+> What's standing between you and your target role?
+
+**Problem:** Developers don't know which skills to prioritize for career growth.
+
+**Solution:** TypeScript-based skills gap analyzer that maps your current skills against target job requirements and surfaces the highest-ROI things to learn next.
+
+**Stack:** TypeScript · Node.js · LLM APIs
+
+[→ Repository](https://github.com/KunjShah95/gapminer)
+
+---
+
+### promptvault.dev · Prompt Management for Teams `🚧 In Development`
 
 > Because good prompts deserve version control.
 
@@ -134,20 +192,18 @@ A memory-driven autonomous career operating system. Not another job board wrappe
 
 ---
 
-## Open Source
+## Open Source Contributions
 
-Primarily building my own tools right now. Actively exploring contributions to:
-- `LangChain` — agent tooling and memory modules
-- `LangGraph` — stateful agent workflows
-- `HuggingFace Transformers` — tokenizer tooling
+| Repository | Contribution | Status |
+|---|---|---|
+| [ayush-that/codejeet](https://github.com/ayush-that/codejeet/pull/13) | README improvements | ✅ Merged |
 
-Communities: LangChain Discord · Hugging Face Forums · IndiaAI community
+Actively exploring contributions to `LangChain`, `LangGraph`, and `HuggingFace Transformers`.  
+Communities: LangChain Discord · Hugging Face Forums · IndiaAI
 
 ---
 
 ## Learning Journey
-
-Currently going deep on:
 
 | Topic | Status |
 |---|---|
@@ -157,8 +213,8 @@ Currently going deep on:
 | LLM evaluation frameworks | Active |
 | Multi-agent coordination patterns | Active |
 | RAG pipeline optimization | Ongoing |
+| Vector DB internals | Shipped ✅ |
 | Distributed systems fundamentals | Ongoing |
-| Vector DB internals | Exploring |
 
 ---
 
