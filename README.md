@@ -4,13 +4,19 @@
 
 # Kunj Shah
 
-**AI Agent Developer · Developer Tools · LLM Systems**
+**AI Engineer · Agent Systems · LLM Infrastructure**
 
-I build AI-powered tools that ship — not demos, not experiments, real things.  
-Currently building [AgentForge](https://github.com/KunjShah95), a memory-driven career operating system.  
+I build AI systems that ship — not demos. EquityLens (healthcare bias detection) is in production with 92.9% R² and 80%+ accuracy. Currently building [ContextIQ](https://github.com/KunjShah95), a drop-in LLM context/cost optimizer, and [Neuron OS](https://github.com/KunjShah95/neuron-os), a local-first OS for autonomous agents.
 Author of [`sentinel-cli`](https://www.npmjs.com/package/sentinel-cli) — local-first AI code reviewer on npm.
 
-`Ahmedabad, India` · `Open to roles & freelance` · `4th Year CS @ Indus University`
+`Ahmedabad, India` · `AI Automation Intern @ Phaze AI` · `4th Year CS @ Indus University (CGPA 9.00)`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kunjshah.vercel.app-0a0a0a?style=flat-square)](https://kunjs-portfolio-website.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunjshah05-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjshah05)
+[![X](https://img.shields.io/badge/X-kunjshah__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kunjshah_dev)
+[![Email](https://img.shields.io/badge/Email-kunjkshahdeveloper%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kunjkshahdeveloper@gmail.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity_AI-Ambassador-1FB8CD?style=flat-square)](https://www.linkedin.com/in/kunjshah05)
+[![BLACKBOX](https://img.shields.io/badge/BLACKBOX.AI-Ambassador-000000?style=flat-square)](https://www.linkedin.com/in/kunjshah05)
 
 </div>
 
@@ -18,64 +24,108 @@ Author of [`sentinel-cli`](https://www.npmjs.com/package/sentinel-cli) — local
 
 ## About Me
 
-I got tired of building chatbots. So I started building tools that actually do things.
+I build tools at the intersection of LLMs and production systems — agent infrastructure, evaluation frameworks, and retrieval, not chatbot wrappers.
 
-Most of my work lives at the intersection of LLMs and developer workflows — code reviewers, agent pipelines, memory systems. I care about tools that work offline, respect your data, and don't need a SaaS subscription to be useful.
+At Phaze AI, I work on multi-agent automation workflows in production. EquityLens, a healthcare bias detection system, is live with measured results (92.9% R², 80%+ accuracy) — not a notebook demo.
 
 Right now I'm deep in:
-- Multi-agent orchestration with LangGraph
-- Memory architectures for long-running AI systems
-- MCP (Model Context Protocol) and what it changes for agent tooling
-- LLM evaluation — because "it feels right" isn't a metric
 
-My development philosophy: ship first, refine second, don't tutorial-grind. The best way to understand a system is to break one.
+- LLM context/cost optimization (ContextIQ) — reducing token spend at the proxy layer
+- Multi-agent orchestration and agent-to-agent IPC
+- MCP (Model Context Protocol) and agent tooling
+- LLM evaluation — because "it feels right" isn't a metric
+- Vector search internals (built 9 ANN algorithms from scratch to understand why)
+
+My development philosophy: ship first, refine second, measure everything.
 
 ---
 
 ## Tech Stack
 
 **Languages**
-`Python` `TypeScript` `JavaScript` `SQL` `Bun`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 **Frontend**
-`React` `Next.js` `Tailwind CSS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-`FastAPI` `Node.js` `PostgreSQL` `Redis`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **AI/ML**
-`LangChain` `LangGraph` `OpenAI SDK` `Anthropic SDK` `HuggingFace Transformers` `CrewAI`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Vector Databases**
 `Pinecone` `ChromaDB` `FAISS` `Weaviate`
 
 **Cloud & DevOps**
-`Docker` `Kubernetes` `GitHub Actions` `Vercel` `Google Cloud`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**APIs & Integrations**
-`OpenAI` `Anthropic Claude` `Groq` `Gemini` `OpenRouter`
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KunjShah95&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KunjShah95&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjShah95&theme=dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=KunjShah95&theme=darkhub&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
 ## Currently Building
 
-### 🧭 AgentForge Career OS
-A memory-driven autonomous career operating system. Not another job board wrapper — a multi-agent system that tracks your career trajectory, surfaces opportunities, preps you for interviews, and remembers everything across sessions.
+### 🧮 ContextIQ · LLM Context & Cost Optimizer
 
-**Why it matters:** Most career tools treat you as a static resume. AgentForge treats your career as a stateful, evolving system.
+Drop-in proxy that cuts LLM context/token spend without touching your app logic. Full spec, TDD test suite, and dashboard built out — GTM model priced on % of token savings delivered.
 
-**Stack:** Next.js · FastAPI · LangGraph · PostgreSQL · Pinecone · Anthropic Claude
+**Why it matters:** Token cost is the biggest hidden line item in production LLM apps. ContextIQ optimizes the context window before it hits the model.
 
-**Status:** Architecture phase. Backend scaffolding in progress.
+**Stack:** TypeScript · Node.js · Proxy architecture · Multi-LLM APIs
+
+**Status:** Product spec + TDD suite complete. Building toward pilot.
+
+---
+
+### 🧭 EquityLens · Healthcare Bias Detection `✅ In Production`
+
+A system that detects bias in healthcare ML models, live and running — not a portfolio demo.
+
+**Results:** 92.9% R² · 80%+ accuracy
+
+**Stack:** Python · ML pipeline · FastAPI
 
 ---
 
 ### 🧠 Neuron OS
-A terminal-first AI agent orchestration system. Think of it as an OS layer for running, managing, and chaining AI agents from the command line — built for developers who live in the terminal.
 
-**Why it matters:** Most agent frameworks are GUI-first or notebook-first. Neuron OS is built for composability, piping agents like Unix commands.
+A local-first, TypeScript-native operating system for autonomous AI agents — spawn typed agents, run them across terminal, web, chat, and API surfaces, with built-in audit logging, per-agent tool policies, cost attribution, and an encrypted credential vault.
 
-**Stack:** TypeScript · Bun · LangGraph · MCP
+**Why it matters:** Most agent frameworks are GUI-first or notebook-first. Neuron OS is built for composability — piping agents like Unix commands, with production controls (RBAC, sandboxing, distributed workers) baked in, not bolted on.
+
+**Stack:** TypeScript · Bun · 13 AI providers · 11 platform adapters · MCP
 
 **Status:** Active development. [→ Repository](https://github.com/KunjShah95/neuron-os)
 
@@ -94,6 +144,7 @@ A terminal-first AI agent orchestration system. Think of it as an OS layer for r
 **Stack:** Node.js · TypeScript · Multi-LLM APIs · Docker
 
 **Key Features:**
+
 - SQL injection, XSS, secrets detection
 - WCAG 2.1 accessibility checks
 - GitHub PR integration via CLI
@@ -116,6 +167,7 @@ A terminal-first AI agent orchestration system. Think of it as an OS layer for r
 **Stack:** Python · FastAPI · NumPy · Docker · Kubernetes
 
 **Key Features:**
+
 - 9 ANN algorithms implemented from scratch
 - RAG pipeline with multimodal support
 - REST API via FastAPI
@@ -123,20 +175,6 @@ A terminal-first AI agent orchestration system. Think of it as an OS layer for r
 - Benchmarking suite across algorithms
 
 [→ Repository](https://github.com/KunjShah95/BUILDING-MY-OWN-VECTOR-DB)
-
----
-
-### AETHER-AI · Autonomous Agent Framework
-
-> A framework for agents that plan, not just respond.
-
-**Problem:** LangChain is powerful but complex. Most teams need a simpler, opinionated wrapper to build reliable agents fast.
-
-**Solution:** Modular agent framework with built-in tool integration, state monitoring, and persistent memory. REST API included for deployment.
-
-**Stack:** Python · LangChain · OpenAI GPT-4 · FastAPI · PostgreSQL
-
-[→ Repository](https://github.com/KunjShah95/AETHER-AI)
 
 ---
 
@@ -192,15 +230,11 @@ A terminal-first AI agent orchestration system. Think of it as an OS layer for r
 
 ---
 
-
-
----
-
 ## Learning Journey
 
 | Topic | Status |
 |---|---|
-| LangGraph stateful agents | Active |
+| LLM context/cost optimization | Active |
 | MCP (Model Context Protocol) | Active |
 | Agent memory architectures | Active |
 | LLM evaluation frameworks | Active |
@@ -227,13 +261,10 @@ Commits tell a story — I try to make them readable.
 |---|---|
 | 🌐 Portfolio | [kunjshah.vercel.app](https://kunjs-portfolio-website.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/kunjshah05](https://www.linkedin.com/in/kunjshah05) |
-| 📧 Email | kunjkshahdeveloper@gmail.com |
+| 📧 Email | <kunjkshahdeveloper@gmail.com> |
 | 🐦 X / Twitter | [@kunjshah_dev](https://x.com/kunjshah_dev) |
-| 📄 Resume | _[link placeholder]_ |
 
-Always happy to connect with builders, founders, and curious developers.
-
-If you're working on something in AI tooling, agent systems, or developer productivity — reach out.
+Building in public. If you're working on agent infrastructure, evals, or retrieval — reach out.
 
 <div align="center">
 
