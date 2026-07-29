@@ -41,9 +41,8 @@ Live system detecting bias in medical ML models. 92.9% RÂ² Â· 80%+ accuracy.
 ### Neuron OS Â· Agent Operating System
 Local-first TypeScript OS for autonomous agents. RBAC, sandboxing, credential vault, cost tracking. â†’ [Repository](https://github.com/KunjShah95/neuron-os)
 
-### sentinel-cli Â· AI Code Reviewer
-Local-first CLI (13+ analyzers): security, accessibility, TypeScript, React patterns. Works offline. No data leaks.
-â†’ [Repository](https://github.com/KunjShah95/sentinel-cli) Â· [npm](https://www.npmjs.com/package/sentinel-cli)
+### grokreview Â· AI-Powered PR Reviews
+Automated pull request reviews with 5 AI providers, streaming, analytics dashboard, CLI, and GitHub Actions integration. â†’ [Repository](https://github.com/KunjShah95/grokreview)
 
 ### Building-My-Own-Vector-DB
 9 ANN algorithms (HNSW, IVF, PQ, LSH) hand-rolled in Python. Full RAG pipeline, K8s configs. â†’ [Repository](https://github.com/KunjShah95/BUILDING-MY-OWN-VECTOR-DB)
