@@ -4,7 +4,7 @@
 
 Based in Ahmedabad, India. I build AI agents, web apps, APIs, and prototypes — whiteboard to production in weeks, not quarters. Open source all the way.
 
-📍 Ahmedabad, IN · 📬 Available for hire · 🌐 [kunjshah.vercel.app](https://kunjshah.vercel.app)
+📍 Ahmedabad, IN · 📬 Available for hire · 🌐 [kunjshah.in](https://kunjshah.in)
 
 ---
 
@@ -94,7 +94,7 @@ Based in Ahmedabad, India. I build AI agents, web apps, APIs, and prototypes —
 ### Let's Connect
 
 <p>
-  <a href="https://kunjshah.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-kunjshah.vercel.app-black?style=flat" /></a>
+  <a href="https://kunjshah.in"><img src="https://img.shields.io/badge/🌐_Portfolio-kunjshah.in-black?style=flat" /></a>
   <a href="mailto:kkshah2005@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-kkshah2005@gmail.com-black?style=flat" /></a>
   <a href="https://github.com/KunjShah95"><img src="https://img.shields.io/badge/🐙_GitHub-KunjShah95-black?style=flat" /></a>
 </p>
