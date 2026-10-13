@@ -34,8 +34,6 @@ Based in Ahmedabad, India. I build AI agents, web apps, APIs, and prototypes —
 - 🏛️ **[ArchMind AI](https://github.com/KunjShah95/archmind-ai)** ⭐1 — AI Staff Architect for engineering teams. Upload a diagram, get a 7-agent architecture review: scalability, security, reliability, performance, cost, maintainability, observability. Includes chaos simulation & compliance auditing.  
   `[TypeScript · Python · FastAPI] [Live demo](https://archmind-ai-topaz.vercel.app/)`
 
-- 🚀 **[GrokReview](https://github.com/KunjShah95/grokreview)** ⭐1 — AI-powered PR review platform with 6 LLM providers, streaming SSE reviews, security scanner, AI test generator, RAG chat over repos, and an MCP server for Claude Code & Cursor.  
-  `[TypeScript] [Live demo](https://grokreview-amber.vercel.app)`
 
 - ⚙️ **[AETHER-AI (Sentinel AI)](https://github.com/KunjShah95/AETHER-AI)** ⭐2 — Go-based coding terminal with Bubble Tea TUI, HTTP server, session persistence, filesystem tools, MCP tool bridges, and a local skills registry.  
   `[Go] [Live demo](https://aether-ai-sand.vercel.app)`
